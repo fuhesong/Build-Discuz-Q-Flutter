@@ -16,7 +16,7 @@ development:
   #
   # YOUR DOMAIN SHOULD NEVER ENDED WITH PATH SEPARATOR LIKE : https://www.example.com/
   domain: http://dzq.hinanftp.com:88/
-  appname: 文中后院
+  appname: wenzhong
   # Allow and show performance overlay setting
   enablePerformanceOverlay: true
   # HTTP2
@@ -41,7 +41,7 @@ development:
 # Parameters for building prodution package
 production:
   domain: http://dzq.hinanftp.com:88/
-  appname: 文中后院
+  appname: wenzhong
   ## DO NOT ENABLE THIS ITEM WHEN YOU ARE BUILD AN APPLICATION FOR YOUR USERS
   enablePerformanceOverlay: false
   # HTTP2
