@@ -6,7 +6,6 @@
 # Blog: https://吴.中国
 #=================================================
 
-
 name: Build Discuz-Q-APP
 
 on:
@@ -15,8 +14,8 @@ on:
   push:
     branches:
       - master
-    paths:
-      - '.config'
+#    paths:
+#      - '.config'
   schedule:
     - cron: 0 0 * * *
 #    watch:
